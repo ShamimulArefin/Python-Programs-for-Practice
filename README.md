@@ -31,11 +31,11 @@ integers.
     - c.Write a Python program to convert the distance (in feet) to inches, yards, and miles.
     - d.Write a Python program to convert all units of time into seconds.
 15. Python program to print all Prime numbers in an Interval
-16. Python Program for How to check if a given number is Fibonacci number?
+16. Python Program for How to check if a given number is Fibonacci number
 17. Python program to find second largest number in a list
 18. Write a program to remove duplicate elements from list.
 19. Python program to print even length words in a string
-20. Python | Count the Number of matching characters in a pair of string
+20. Python Count the Number of matching characters in a pair of string
 21. Remove all duplicates from a given string in Python
-22. Python | Program to check if a string contains any special character
+22. Python Program to check if a string contains any special character
 23. Python program to find the sum of all items in a dictionary
