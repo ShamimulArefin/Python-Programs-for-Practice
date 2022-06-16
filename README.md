@@ -22,14 +22,14 @@ integers.
 13. Questions:
     - a. Write a Python program to get OS name, platform and release information.
     - b. Write a Python program to find out the number of CPUs using
-    - c.Write a Python program to check whether a file exists
-    - d.Write a Python program to list all files in a directory in Python
+    - c. Write a Python program to check whether a file exists
+    - d. Write a Python program to list all files in a directory in Python
     - e. Write a python program to access environment variables.
 14. Questions:
     - a. Write a python program to sum of the first n positive integers.
-    - b.Write a Python program to convert height (in feet and inches) to centimeters. 
-    - c.Write a Python program to convert the distance (in feet) to inches, yards, and miles.
-    - d.Write a Python program to convert all units of time into seconds.
+    - b. Write a Python program to convert height (in feet and inches) to centimeters. 
+    - c. Write a Python program to convert the distance (in feet) to inches, yards, and miles.
+    - d. Write a Python program to convert all units of time into seconds.
 15. Python program to print all Prime numbers in an Interval
 16. Python Program for How to check if a given number is Fibonacci number
 17. Python program to find second largest number in a list
